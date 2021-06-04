@@ -9,7 +9,7 @@ cellLinks:
     cimage: media/map.png
     cnewtab: true
 
-  - cname: Screenshots
-    curl: screenshots
-    cimage: media/demo03.jpg
+  # - cname: Screenshots
+  #   curl: screenshots
+  #   cimage: media/demo03.jpg
 ---
