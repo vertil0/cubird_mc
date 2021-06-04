@@ -39,7 +39,7 @@ a {
     transition: 0.5s;
 }
     .ccdiscordjoin:after {
-        content: '\25B8';
+        content: '\25BE';
         position: absolute;
         opacity: 0;
         top: 0;
