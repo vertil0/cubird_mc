@@ -4,15 +4,12 @@ navname: Home
 
 # Cells at the bottom of the page
 cellLinks:
-  - cname: Server Map
-    curl: map
-    cimage: media/demo02.jpg
+  - cname: Карта сервера
+    curl: http://map.cubirds.fun:8123/
+    cimage: media/map.png
+    cnewtab: true
 
   - cname: Screenshots
     curl: screenshots
     cimage: media/demo03.jpg
-
-  - cname: Donate
-    curl: donate
-    cimage: media/demo04.jpg
 ---
